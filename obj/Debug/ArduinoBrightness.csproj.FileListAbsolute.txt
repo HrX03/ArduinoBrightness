@@ -1,0 +1,15 @@
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\ArduinoBrightness.exe.config
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\ArduinoBrightness.exe
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\ArduinoBrightness.pdb
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.csprojAssemblyReference.cache
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.Form1.resources
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.Properties.Resources.resources
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.csproj.GenerateResource.cache
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.exe
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.pdb
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\Brightness.dll
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\MvvmCross.Platform.dll
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\MvvmCross.Platform.Wpf.dll
+D:\dnbia\Projects\ArduinoBrightness\bin\Debug\MvvmCross.Platform.Wpf.pdb
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.csproj.CopyComplete
+D:\dnbia\Projects\ArduinoBrightness\obj\Debug\ArduinoBrightness.SerialPortForm.resources
